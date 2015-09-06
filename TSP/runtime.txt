@@ -1,0 +1,38 @@
+1.
+The best tour found is 5373.
+
+Run Time:0.061075 seconds.
+
+2.
+The best tour found is 7437.
+
+Run Time:0.541191 seconds.
+
+
+3.
+The best tour found is 12553.
+
+Run Time:11.8841 seconds.
+
+
+4.
+The best tour found is 17603.
+
+Run Time:88.7663 seconds.
+
+
+5.
+The best tour found is 24456.
+
+Run Time:300.668 seconds.
+
+
+6.
+The best tour found is 34878.
+
+Run Time:300.224 seconds.
+
+7.
+The best tour found is 54679.
+
+Run Time:304.237 seconds.

@@ -1,0 +1,30 @@
+CS325 - Introduction to Algorithms
+Travelling Salesman Problem:
+Group 3:
+Lakshman Madhav Kollipra
+Catherina Vijay
+Shajith Ravi
+-----------------------------------------------------------------------------------------------
+
+Execution:
+
+g++ -o tsp tsp.cpp
+./tsp Input_Filename
+
+------------------------------------------------------------------------------------------------
+Implementation: Nearest Neighbour with 2-opt optimization in C++
+
+Specifications:
+Input: text file.
+
+Each line defines a city and has 3 numbers separated by space.
+The first number is the city id.
+The second number is the city's x coordinate.
+The third number is the city's y cooridnate.
+
+Output: Text file (Input_filename.tour)
+First line contains tour length
+
+List of cities visited in order. Each consecutive line is the city visited.
+--------------------------------------------------------------------------------------------------
+
